@@ -1,4 +1,4 @@
-package com.mandacode.gateway.config;
+package com.byuljogak.gateway.config;
 
 public class StringRedisSerializer {
 

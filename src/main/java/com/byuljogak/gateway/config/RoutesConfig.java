@@ -1,4 +1,4 @@
-package com.mandacode.gateway.config;
+package com.byuljogak.gateway.config;
 
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Value;
@@ -11,6 +11,6 @@ public class RoutesConfig {
   @Value("${routes.auth.uri}")
   private String authUri;
 
-  @Value("${routes.cloud.uri}")
-  private String cloudUri;
+  @Value("${routes.tarot.uri}")
+  private String tarotUri;
 }

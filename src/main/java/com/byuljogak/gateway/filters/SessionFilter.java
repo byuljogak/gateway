@@ -1,4 +1,4 @@
-package com.mandacode.gateway.filters;
+package com.byuljogak.gateway.filters;
 
 import org.springframework.cloud.gateway.filter.GatewayFilter;
 import org.springframework.cloud.gateway.filter.factory.AbstractGatewayFilterFactory;
