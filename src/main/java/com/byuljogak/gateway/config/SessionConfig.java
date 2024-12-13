@@ -1,7 +1,4 @@
-package com.mandacode.gateway.config;
-
-import java.nio.charset.StandardCharsets;
-import java.security.SecureRandom;
+package com.byuljogak.gateway.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
